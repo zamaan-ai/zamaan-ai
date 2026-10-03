@@ -7,9 +7,15 @@ Computer Science & Engineering student at MAKAUT building scalable full-stack we
 🔄 Finalist in Metamorph 2.0 (Top 36 / 1,600+) & Nominated for SIH 2026
 Repo: github.com/zamaan-ai (Projects, Full-Stack Apps, Algorithmic Visualizers)
 
-• Java Full Stack & Software Development Internships (Cognifyz IT Solutions)
+• Software Developer Intern @ Cognifyz IT Solutions
+• Java Full Stack Intern
 • Campus Ambassador @ Techfest, IIT Bombay
-• Interactive Web Engineering & Algorithm Visualization
+
+## 💻 Technical Skills:
+- **Languages:** C, C++, Java, JavaScript (ES6+), SQL, Bash
+- **Frontend & Web:** React.js, HTML5, CSS3, REST APIs, Responsive Design
+- **Backend & Cloud:** Node.js, Express.js, AWS Cloud Basics, Google Cloud, Docker
+- **Tools & Core:** Git, GitHub, Linux CLI, Data Structures & Algorithms, OOP, System Design Basics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-zamaan-akhtar) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/zamaan-ai) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhtarzamaan997@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz__zamaan_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zamaan_akhtar) 
